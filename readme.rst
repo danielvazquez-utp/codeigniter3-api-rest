@@ -24,6 +24,12 @@ Métodos implementados
 
 GET, POST, PUT, DELETE
 
+*******************
+Consumo de los servicios
+*******************
+
+Revisa la carpeta /capturas
+
 *******
 Licencia
 *******
