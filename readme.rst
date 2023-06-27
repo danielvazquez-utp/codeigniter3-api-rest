@@ -11,6 +11,7 @@ Archivos agregados a Codeigniter 3
 - application/config/rest.php
 - application/libraries/REST_Controller.php
 - application/libraries/Format.php
+- Descargar desde https://www.itsolutionstuff.com/upload/codeigniter-api.zip
 
 **************************
 Controlador que implemeta la API REST
