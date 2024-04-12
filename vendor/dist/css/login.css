@@ -1,0 +1,31 @@
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+#grid{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.login-box {
+  position: relative;
+  bottom: 0;
+  top: 10px;
+  /*background: rgba(0, 0, 0, 0.5);*/
+}
+
+.bg-morena {
+  background-color: #7d2536 !important;
+}
+
+.border-morena {
+  border-top: 3px solid #7d2536 !important;
+}

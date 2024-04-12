@@ -1,0 +1,21 @@
+/*Hoja de estilos para FoodMathLab*/
+
+.txt-centrado{
+	text-align: center;
+}
+
+.btn-primary{
+	border-radius: 4px !important;
+	border: 0 !important;
+    background-color: #012970 !important; 
+}
+
+.contenedor-bisel{
+	box-shadow: 0 4px 16px rgb(0 0 0 / 10%);
+	padding: 2rem 1rem;
+}
+
+.footer-top{
+	background: white url('../../flexstar/assets/img/footer-bg-1.jpg') no-repeat right top !important;
+    background-size: contain !important;
+}

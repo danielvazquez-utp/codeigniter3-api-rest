@@ -1,0 +1,26 @@
+/*Hoja de estilos personalizados*/
+
+.text-centrado{
+	text-align: center;
+}
+
+.text-real-maroon{
+	color: #781818;
+}
+
+.nav-link.active{
+	background-color: #781818 !important;
+	color:  #FFF !important;
+}
+
+.nav-link:hover{
+	color:  #781818 !important;
+}
+
+#file-upload-button{
+	background-color: navy !important;
+}
+
+.bg-default{
+	background-color: #EDEDED !important;
+}

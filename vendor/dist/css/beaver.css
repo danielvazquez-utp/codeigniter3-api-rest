@@ -1,0 +1,13 @@
+.nav-link .no-active:hover{
+	color: red;
+}
+
+legend {
+	background-color: #ededed;
+	padding-left: 2rem;
+	border-radius: 5px 5px 0 0;
+}
+
+.a-icon-lg{
+	font-size: 1.5rem;
+}

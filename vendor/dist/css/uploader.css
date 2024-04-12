@@ -1,0 +1,46 @@
+#drop_file_zone, 
+#drop_file_zone_acta, 
+#drop_file_zone_certificado, 
+#drop_file_zone_foto, 
+#drop_file_zone_datperso,
+#drop_file_zone_ComprobanteFiscal,
+#drop_file_zone_carta {
+    background-color: #EEE;
+    border: #999 5px dashed;
+    width: 100%;
+    height: 200px;
+    padding: 8px;
+    font-size: 18px;
+}
+#drag_upload_file {
+  width:50%;
+  margin:0 auto;
+}
+#drag_upload_file p {
+  text-align: center; 
+}
+#drag_upload_file #selectfile, 
+#drag_upload_file_acta #selectfile_acta, 
+#drag_upload_file_foto #selectfile_foto,
+#drag_upload_file_carta #selectfile_carta,
+#drag_upload_file_DP #selectfile_datperso,
+#drag_upload_file_ComprobanteFiscal #selectfile_ComprobanteFiscal,
+#drag_upload_file_certi #selectfile_certificado {
+  display: none;
+}
+
+
+#drop_file_zone:hover, #drop_file_zone_foto:hover {
+    background-color: #c6f7e5;
+    border: #37edaa 5px dashed;
+}
+
+#drop_file_zone_acta:hover, #drop_file_zone_datperso:hover {
+    background-color: #e7f09c;
+    border: #bcd433 5px dashed;
+}
+
+#drop_file_zone_certificado:hover, #drop_file_zone_ComprobanteFiscal:hover, #drop_file_zone_carta:hover {
+    background-color: #9cd3f0;
+    border: #339cd4 5px dashed;
+}
